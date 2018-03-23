@@ -1,4 +1,8 @@
+Copyright (c) 2018 MrPlus (https://github.com/MrPlusGH/NPlusMiner)
+
+![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
 # NPlusMiner-Documentation
 This is the repository for NMPlusMiner documentation, help, Wiki
 
 Find NPlusMiner at: https://github.com/MrPlusGH/NPlusMiner/releases
+Readme Updated 2018 Mar 23

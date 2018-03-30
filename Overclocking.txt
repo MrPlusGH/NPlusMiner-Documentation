@@ -1,5 +1,7 @@
 Overclocking
 
+!Use OC with caution!
+
 Gigabyte Xtreme Gaming Engine (VGA - XTREME ENGINE) is recomended for overclocking software.
 In settings, there is a "Synchronize settings for similar graphics processors" option.
 Note that it minimizes to the system tray. To open, right click on the icon and select open.
@@ -14,11 +16,23 @@ Memory:  +400 - +600
 
 If a GPU is overclocked too high, there is a risk of crashing, freezing, and increase of bad shares.
 
-For advanced overclocking, one can run algorithm specific overclocking by using NvidiaInspector.
-The algoritm specific batch files that run NvidiaInspector should be put in the prerun folder.
+For advanced overclocking, one can run algorithm specific overclocking by using NPlusMiner Prerun feature and NvidiaInspector.
+Simply create a file named <AlgoName>.bat in prerun folder. If <AlgoName>.bat does not exist, will try to launch prerun/default.bat.
 There is a default-Example.bat file in the prerun folder that has example code in it.
+
+Use case example 1:
+Your Rig is showing issues with only one algorithm (say x16r) and you realize this guys needs different OC settings than others.
+Create .\prerun\default.bat with the common OC settings for all algos.
+Create .\prerun\x16r.bat with the specific OC settings for x16r.
+NPlusMiner will now automatically change OC settings accordingly.
+
+Use case example 2:
+Your OC settings are sometimes going away when the GPU driver crashes.
+Create .\prerun\default.bat with the common OC settings for all algos.
+NPlusMiner will now automatically update OC settings each time it switches algo.
 
 NvidiaInspector download:
 https://github.com/Orbmu2k/nvidiaProfileInspector/releases
 
+!Use OC with caution!
 

@@ -1,0 +1,24 @@
+Overclocking
+
+Gigabyte Xtreme Gaming Engine (VGA - XTREME ENGINE) is recomended for overclocking software.
+In settings, there is a "Synchronize settings for similar graphics processors" option.
+Note that it minimizes to the system tray. To open, right click on the icon and select open.
+
+Gigabyte Xtreme Gaming Engine download:
+https://www.gigabyte.com/Support/Utility/Graphics-Card
+
+Recomend overclock settings for GeForce GTX 10 Series (1050 - 1080 Ti)
+Power: 70% - 80% (-30 - -20)
+Core: +0 - +50
+Memory: +400 - +600
+
+If a GPU is overclocked too high, there is a risk of crashing, freezing, and increase of bad shares.
+
+For advanced overclocking, one can run algorithm specific overclocking by using NvidiaInspector.
+The algoritm specific batch files that run NvidiaInspector should be put in the prerun folder.
+There is a default-Example.bat file in the prerun folder that has example code in it.
+
+NvidiaInspector download:
+https://github.com/Orbmu2k/nvidiaProfileInspector/releases
+
+

@@ -36,3 +36,4 @@ https://github.com/Orbmu2k/nvidiaProfileInspector/releases
 
 !Use OC with caution!
 
+Copyright (c) 2018 Tesla74

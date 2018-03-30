@@ -7,7 +7,7 @@ Note that it minimizes to the system tray. To open, right click on the icon and 
 Gigabyte Xtreme Gaming Engine download:
 https://www.gigabyte.com/Support/Utility/Graphics-Card
 
-Recomend overclock settings for GeForce GTX 10 Series (1050 - 1080 Ti)
+Recomended overclock settings for GeForce GTX 10 Series (1050 - 1080 Ti)
 Power: 70% - 80% (-30 - -20)
 Core: +0 - +50
 Memory: +400 - +600

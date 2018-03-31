@@ -22,8 +22,8 @@ For advanced overclocking, one can run algorithm specific overclocking by using 
 
 ```
 Use case example 1:
-Your Rig is showing issues with only one algorithm (say x16r) and you realize this
-guys needs different OC settings than others.
+Your Rig is showing issues with only one algorithm (say x16r) and you realize
+it needs different OC settings than others.
 Create .\prerun\default.bat with the common OC settings for all algos.
 Create .\prerun\x16r.bat with the specific OC settings for x16r.
 NPlusMiner will now automatically change OC settings accordingly.

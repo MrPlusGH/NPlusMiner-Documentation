@@ -10,9 +10,11 @@ Note that it minimizes to the system tray.  To open, right click on the icon and
 VGA - XTREME ENGINE download:  https://www.gigabyte.com/Support/Utility/Graphics-Card
 
 Recommended overclock settings for GeForce GTX 10 Series (1050 - 1080 Ti)
-`Power:   70% - 80% (-30 - -20)
+`
+Power:   70% - 80% (-30 - -20)
 Core:    0 - +50
-Memory:  +400 - +600`
+Memory:  +400 - +600
+`
 
 If a GPU is overclocked too high, there is a risk of crashing, freezing, and increase of bad shares.
 

@@ -1,4 +1,4 @@
-Copyright (c) 2018 MrPlus (https://github.com/MrPlusGH/NPlusMiner)
+Copyright © 2018 MrPlus (https://github.com/MrPlusGH/NPlusMiner)
 
 ![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
 # NPlusMiner-Documentation

@@ -18,7 +18,7 @@ Memory: +400 - +600
 
 If a GPU is overclocked too high, there is a risk of crashing, freezing, and increase of bad shares.
 
-For advanced overclocking, one can run algorithm specific overclocking by using NPlusMiner's Prerun feature and NvidiaInspector.  Make sure there isn't other overclocking software running.  Simply create a file named `<AlgoName>.bat` in the prerun folder.  If `<AlgoName>.bat` does not exist, NPlusMiner will try to launch prerun/default.bat.  There is a default-Example.bat file in the prerun folder that has example code in it.
+For advanced overclocking, one can run algorithm specific overclocking by using NPlusMiner's Prerun feature and NvidiaInspector.  Make sure there isn't other overclocking software running.  Simply create a file named `<AlgoName>.bat` in the prerun folder.  If `<AlgoName>.bat` does not exist, NPlusMiner will try to launch `prerun/default.bat`.  There is a `default-Example.bat` file in the prerun folder that has example code in it.
 
 ```
 Use case example 1:

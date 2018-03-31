@@ -38,4 +38,4 @@ Parameters:
 
 
 ***
-Copyright (c) 2018 MrPlus (https://github.com/MrPlusGH/NPlusMiner)
+Copyright © 2018 MrPlus (https://github.com/MrPlusGH/NPlusMiner)

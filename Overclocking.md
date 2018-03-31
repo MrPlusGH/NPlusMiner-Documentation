@@ -38,5 +38,6 @@ NvidiaInspector download:  https://github.com/Orbmu2k/nvidiaProfileInspector/rel
 
 !Use OC with caution!
 
+***
 Copyright © 2018 Tesla74
 

@@ -2,7 +2,7 @@
 # Overclocking
 !Use OC with caution!
 
-If overclocking, the overclocking settings should be set before first run of NPlusMiner because of algorithm benchmarking.  If overclocking settings were changed after the benchmarking, you'll need to run the ResetBenchmark.bat batch file.
+If overclocking, the overclocking settings should be set before first run of NPlusMiner because of algorithm benchmarking.  If overclocking settings were changed after the benchmarking, you'll need to run `ResetBenchmark.bat`.
 
 Gigabyte Xtreme Gaming Engine (VGA - XTREME ENGINE) is recommended for overclocking software.  In settings, there is a "Synchronize settings for similar graphics processors" option.
 Note that it minimizes to the system tray.  To open, right click on the icon and select open.

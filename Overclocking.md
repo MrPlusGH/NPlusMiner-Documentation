@@ -34,7 +34,7 @@ Create .\prerun\default.bat with the common OC settings for all algos.
 NPlusMiner will now automatically update OC settings each time it switches algo.
 ```
 
-NvidiaInspector download:  https://github.com/Orbmu2k/nvidiaProfileInspector/releases
+NvidiaInspector download:  http://www.guru3d.com/files-details/nvidia-inspector-download.html
 
 !Use OC with caution!
 

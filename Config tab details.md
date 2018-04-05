@@ -3,9 +3,6 @@
 
 ![alt text](https://github.com/MrPlusGH/NPlusMiner-Documentation/blob/master/NPMConfig.JPG)
 
-***
-Copyright © 2018 *Author*
-
 ## Mandatory settings
 Below is the only mandatory setting for NPlusMiner.
 Just type your address in (1) and hit Start (21)
@@ -86,3 +83,5 @@ Just type your address in (1) and hit Start (21)
 24 - Current mining activity
         Self explanatory
         
+***
+Copyright © 2018 MrPlus

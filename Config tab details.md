@@ -6,6 +6,7 @@
 ## Mandatory settings
 Below is the only mandatory setting for NPlusMiner.
 Just type your address in (1) and hit Start (21)
+
 1 - BTC Address
         Your BTC Wallet address
 

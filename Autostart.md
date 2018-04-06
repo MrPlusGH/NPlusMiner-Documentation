@@ -1,6 +1,6 @@
 ![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
 # Autostart
-To autostart the miners when starting NPlusminer, check Autostart in the Config tab and then click on the Save Config button.
+To autostart the miners when starting NPlusMiner, check Autostart in the Config tab and then click on the Save Config button.
 
 This can be done manually by editing the config.json file located in the Config folder.  Change "Autostart":  false, to "Autostart":  true,
 

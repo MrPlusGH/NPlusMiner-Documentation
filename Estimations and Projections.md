@@ -24,7 +24,7 @@ The Trust index percentage indicates how accurate these projections are.
 
 ## Estimations
 To take decisions on which algo and which pool it should mine, NPlusMiner uses information provided by the Pools. **These are estimations and not real prices**.
-It is basically an attempt to predict the future. Noone can pretend beeing accurate when playing that game.
+It is basically an attempt to predict the future. No one can pretend being accurate when playing that game.
 Still, this is an important piece of information used to take decisions.
 
 **This is not what you will earn**.

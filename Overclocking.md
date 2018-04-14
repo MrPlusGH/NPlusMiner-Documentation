@@ -1,5 +1,5 @@
 ![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
-# Overclocking
+# Overclocking and Prerun
 !Use OC with caution!
 
 If overclocking, the overclocking settings should be set before first run of NPlusMiner because of algorithm benchmarking.  If overclocking settings were changed after the benchmarking, you'll need to run `ResetBenchmark.bat`.

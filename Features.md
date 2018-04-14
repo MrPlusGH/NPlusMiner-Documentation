@@ -104,5 +104,5 @@ NPlusMiner Monitors mining pools in real-time in order to find the most profitab
       NPlusMiner will notify new version availability
 
 ***
-Copyright © 2018 Tesla74 and MrPlus
+Copyright © 2018 MrPlus and Tesla74
 

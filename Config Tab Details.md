@@ -1,5 +1,5 @@
 ![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
-# Config tab details
+# Config Tab Details
 
 ![alt text](https://github.com/MrPlusGH/NPlusMiner-Documentation/blob/master/NPMConfig.JPG)
 

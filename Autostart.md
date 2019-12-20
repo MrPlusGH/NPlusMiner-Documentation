@@ -24,14 +24,6 @@ In the new window  drag or copy/paste  the shortcut you created from the above s
 
 Reboot and verify
 
-## Start NPlusMiner with Windows 7
-#Prerequesite: follow the directions above to **make sure autostart on launch is enabled**.
-
-Locate the Nplusminer installation directory. locate the file in the directory marked  ***"NPlusMiner With ConfigFile.bat"***
-Right click the file and create a shortcut. In file explorer locate  the startup folder located at ***C:\Program Data\Microsoft\Windows\Start Menu\Programs\Startup***.
-In the new window  drag or copy/paste  the shortcut you created from the above step into the Startup folder. Close out the window once  the shortcut is transferred 
-
-Reboot and verify
 
 
 ***

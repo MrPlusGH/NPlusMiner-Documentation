@@ -1,4 +1,4 @@
-![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
+![alt text](https://github.com/MrPlusGH/NPlusMiner/raw/master/Includes/NPM.png)
 # BrainPlus Configuration Options
 BrainPlus does not need any configuration tuning. Default settings have proven to be effective.
 

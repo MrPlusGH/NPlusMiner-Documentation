@@ -1,6 +1,6 @@
 Copyright © 2018 MrPlus (https://github.com/MrPlusGH/NPlusMiner)
 
-![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
+![alt text](https://github.com/MrPlusGH/NPlusMiner/raw/master/Includes/NPM.png)
 # NPlusMiner-Documentation
 This is the repository for the NPlusMiner Documentation [Wiki][Wiki].
 

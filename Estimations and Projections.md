@@ -1,4 +1,4 @@
-![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
+![alt text](https://github.com/MrPlusGH/NPlusMiner/raw/master/Includes/NPM.png)
 # Estimations and Projections
 There are different notions that NPlusMiner uses to decide what to mine and show earnings. Both these values are different. This page is an attempt to clarify on this topic.
 

@@ -1,4 +1,4 @@
-![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
+![alt text](https://github.com/MrPlusGH/NPlusMiner/raw/master/Includes/NPM.png)
 # Autostart
 
 ## Autostart mining when NPlusMiner is launched

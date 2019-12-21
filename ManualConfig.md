@@ -1,4 +1,4 @@
-![alt text](https://github.com/MrPlusGH/NPlusMiner/blob/2.1/NPM.png)
+![alt text](https://github.com/MrPlusGH/NPlusMiner/raw/master/Includes/NPM.png)
 # Manual configuration (Advanced)
 
 In some scenarios, users might want to deal with configuration manually in .\config\config.json. This can be achieved by setting ManualConfig to true in this file.
